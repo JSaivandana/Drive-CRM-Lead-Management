@@ -87,6 +87,6 @@ Repository Link:
 ---
 
 **👨‍💼 Author**  
-Jyothir Raghavalu Bhogi  
+Jagana Sai Vandana  
 CSE (AI & ML) | Product & Data Enthusiast  
 Focused on building scalable, data-driven SaaS systems.
